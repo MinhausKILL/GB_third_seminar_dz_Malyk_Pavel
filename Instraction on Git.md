@@ -237,3 +237,8 @@ git branch -a
 Также можно просмотреть подробные сведения о загруженных файлах с помощью флага _**--verbose**_.
 
     git pull --verbose
+
+**Взяты эти данные из [Хабр](https://habr.com/ru/company/ruvds/blog/599929/)**
+
+![Спасибо за внимание!](http://risovach.ru/upload/2013/10/mem/spasibo-za-vnimanie_33645512_big_.jpeg)
+
